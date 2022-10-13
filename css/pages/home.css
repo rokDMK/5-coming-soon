@@ -1,6 +1,9 @@
 .hero {
     min-height: 100vh;
     text-align: center;
+    background-image: url(../../img/background.png);
+    background-position: center;
+    background-size: cover;
 }
 .hero > .row-short {
     display: flex;
